@@ -28,8 +28,8 @@ From there, you'll open up insomnia to send any sort of GET, POST, PUT, or DELET
 This is the products api
 ![Products API Gif](./assets/products-api.gif)
 
-This is the category api
-![Category API Gif](./assets/products-api.gif)
+This is the categories api
+![Category API Gif](./assets/categories-api.gif)
 
 This is the tags api
 ![Tags API Gif](./assets/products-api.gif)

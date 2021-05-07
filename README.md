@@ -19,7 +19,14 @@ In order to run the program, you'll first have to fork the repo. In the terminal
 
 ## Usage
 
-While in the project's root folder, in the terminal, you'll type
+You'll first need to setup a database in your MySql workbench. Then, in order to seed the database with data, you'll navigate to the root folder of the program. While in the program's root folder, in the terminal, you'll type
+
+    node seeds/index.js
+
+Here is a walk through video demonstrating this process
+![DB Setup Gif](./assets/db-setup.gif)
+
+Next, to start the server, while in the program's root folder, in the terminal, you'll type
 
     node server.js
 

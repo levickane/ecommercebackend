@@ -32,7 +32,7 @@ This is the categories api
 ![Category API Gif](./assets/categories-api.gif)
 
 This is the tags api
-![Tags API Gif](./assets/products-api.gif)
+![Tags API Gif](./assets/tags-api.gif)
 
 ## License
 

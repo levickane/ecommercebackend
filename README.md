@@ -33,12 +33,15 @@ Next, to start the server, while in the program's root folder, in the terminal, 
 From there, you'll open up insomnia to send any sort of GET, POST, PUT, or DELETE request. The following gifs will demonstrate how the program works:
 
 This is the products api
+
 ![Products API Gif](./assets/products-api.gif)
 
 This is the categories api
+
 ![Category API Gif](./assets/categories-api.gif)
 
 This is the tags api
+
 ![Tags API Gif](./assets/tags-api.gif)
 
 ## License

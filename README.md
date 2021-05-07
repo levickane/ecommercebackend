@@ -23,8 +23,16 @@ While in the project's root folder, in the terminal, you'll type
 
     node server.js
 
-From there, you'll open up insomnia to send any sort of GET, POST, PUT, or DELETE request. Click the following link for a walk-through video of how the program works:
-[Walk-Through Video](./utils/ReadmeGen.gif)
+From there, you'll open up insomnia to send any sort of GET, POST, PUT, or DELETE request. The following gifs will demonstrate how the program works:
+
+This is the products api
+![Products API Gif](./assets/products-api.gif)
+
+This is the category api
+![Category API Gif](./assets/products-api.gif)
+
+This is the tags api
+![Tags API Gif](./assets/products-api.gif)
 
 ## License
 
